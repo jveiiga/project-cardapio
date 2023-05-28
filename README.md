@@ -26,7 +26,7 @@ DELETE /food/:id
 </h1>
 
 <p align = "center">
-Este é o backend da aplicação Cardapio - Feito para lanchonetes anunciarem, seu produtos.
+Este é o backend da aplicação Cardapio - Feito para lanchonetes anunciarem seu produtos.
 
 <blockquote align="center">“Garçom, trás o cardapio!”</blockquote>
 
