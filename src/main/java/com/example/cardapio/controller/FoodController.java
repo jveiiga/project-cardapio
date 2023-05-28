@@ -30,6 +30,7 @@ public class FoodController {
     @Autowired
     private FoodRepository repository;
 
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @DeleteMapping("/{foodId}")
     public ResponseEntity<?> deleteFood(@PathVariable Long foodId) {
          // Verificar se o alimento com o ID fornecido existe no banco de dados
@@ -43,6 +44,7 @@ public class FoodController {
          return ResponseEntity.noContent().build();
     }
 
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @PatchMapping("/{foodId}")
     public ResponseEntity<Food> editFood(@PathVariable Long foodId, @RequestBody Map<String, Object> patchData) {
         // Verificar se o alimento com o ID fornecido existe no banco de dados
