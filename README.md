@@ -41,7 +41,7 @@ Este é o backend da aplicação Cardapio - Feito para lanchonetes anunciarem se
     - Clonar repositorio
     $ git clone https://github.com/jveiiga/project-cardapio.git
     
-    Sobre o Projetos 📺
+    Sobre o Projeto 📺
     
     - Rodando API
     É necessário que você encontre Maven em seu editor de texto, ele vai ter uma estrura de pasta parecida com essa:
