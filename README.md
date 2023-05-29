@@ -72,7 +72,7 @@ Este é o backend da aplicação Cardapio - Feito para lanchonetes anunciarem se
     > │   └────── 📂 com
     > │   └──────── 📂 example
     > │   └────────── 📂 cardapio
-                        └── ☕️ CardapioApplication.java (Ao clickar aqui, aparecerá um ícone desses ▶️ no direito superior, click nele o servidor será inicializado).
+                        └── ☕️ CardapioApplication.java (Ao clickar aqui, aparecerá um ícone desses ▶️ no canto direito superior, click nele o servidor será inicializado).
                         
      -Ps: anexei ao projeto o Insomnia-food.json que pode ser importado no Insomnia e utilizado, mas sinta-se a vontade para utilizar o de seu prefêrencia.
 
