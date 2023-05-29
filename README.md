@@ -44,7 +44,7 @@ Este é o backend da aplicação Cardapio - Feito para lanchonetes anunciarem se
     Sobre o Projeto 📺
     
     - Rodando API
-    É necessário que você encontre Maven em seu editor de texto, ele vai ter uma estrura de pasta parecida com essa:
+    É necessário que você encontre o Maven em seu editor de texto, ele vai ter uma estrura de pasta parecida com essa:
     
     > Pasta principal
     > ├── 📂 Lifecycle
